@@ -2,7 +2,10 @@ body {
   padding: 0;
   text-align: center;
 }
-
+#game-board{
+  background-image: url("../images/road.png");
+  background-size: cover;
+}
 .game-intro {
   float: left;
   padding: 0% 10%;
